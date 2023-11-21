@@ -1,0 +1,4 @@
+MONGODB_URL=mongodb+srv://manal:manal2023@cluster0.yn3fuxg.mongodb.net/EcommerceApp?
+retryWrites=true&w=majority
+
+PORT=5000
